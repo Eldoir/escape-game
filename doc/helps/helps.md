@@ -23,7 +23,7 @@ this.addHelp(
 
 * L'indice courant est affiché en vert, et la solution est toujours affichée en rouge.
 
-![Helps_1](./helps_1.jpg)
+![Helps_multi](./helps_multi.jpg)
 
 ## Tokens
 
@@ -34,9 +34,9 @@ new Help('99', "Prenez la carte #CARD_ADD[34]")
 ```
 donnera :
 
-![Helps_2](./helps_2.jpg)
+![Helps_tokens](./helps_tokens.jpg)
 
-Pour plus d'informations, voir [Message tokens](./message_tokens.md)
+Pour plus d'informations, voir [Message tokens](/doc/message%20tokens\message_tokens.md)
 
 ## Notes
 
