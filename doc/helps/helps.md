@@ -14,7 +14,7 @@ Il est possible d'ajouter plusieurs niveaux d'indices :
 ```javascript
 this.addHelp(
     new Help('99', "Test")
-        .addHelp("Ceci est le\n deuxième indice")
+        .addHelp("Ceci est le\ndeuxième indice")
         .addHelp("Et voici la solution")
 )
 ```
