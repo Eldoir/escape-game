@@ -40,12 +40,13 @@ L'event est un [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/Cu
 ## Écouter un event
 
 Vous pouvez simplement utiliser quelque chose comme :
-```
+```javascript
 window.addEventListener(
   'escape-game.start', // eventCode
   (e) => {
     console.log(e.detail);
   }
+);
 ```
 À placer dans le `setInitCallback` de la méthode `load()` de votre `Scenario`.
 Voir []() pour un exemple concret.
