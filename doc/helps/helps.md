@@ -36,7 +36,7 @@ donnera :
 
 ![Helps_tokens](./helps_tokens.jpg)
 
-Pour plus d'informations, voir [Message tokens](/doc/message%20tokens\message_tokens.md)
+Pour plus d'informations, voir [Message tokens](/doc/message%20tokens/message_tokens.md)
 
 ## Notes
 
