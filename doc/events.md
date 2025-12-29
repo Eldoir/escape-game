@@ -49,4 +49,4 @@ window.addEventListener(
 );
 ```
 À placer dans le `setInitCallback` de la méthode `load()` de votre `Scenario`.
-Voir []() pour un exemple concret.
+Voir le scénario [Broceliande](/website/scenario/broceliande/definition.js) pour un exemple concret.
