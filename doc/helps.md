@@ -42,3 +42,4 @@ Pour plus d'informations, voir [Message tokens](./message_tokens.md)
 
 * Utiliser des indices, ou la solution, est comptabilisé en fin de partie (comme sur la vraie application Unlock).
 * Il n'y a *a priori* pas de limite au nombre d'indices pour une carte donnée. Les scénarios officiels d'Unlock se limitent à 3 maximum.
+* Si les joueurs entrent un numéro d'indice qui n'existe pas dans le scénario, le jeu affiche simplement "Rien à signaler..."
