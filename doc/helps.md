@@ -33,6 +33,7 @@ Par exemple,
 new Help('99', "Prenez la carte #CARD_ADD[34]")
 ```
 donnera :
+
 ![Helps_2](./helps_2.jpg)
 
 Pour plus d'informations, voir [Message tokens](./message_tokens.md)
