@@ -104,7 +104,7 @@ class Game {
 
             this.display.showQuickAlert(
                 "Le délai est dépassé\n" +
-                "mais le temps continue de touner.\n" +
+                "mais le temps continue de tourner.\n" +
                 "\n" +
                 "#ICON[fa-solid fa-person-running fa-3x]\n" +
                 "\n" +
