@@ -39,6 +39,7 @@ L'event est un [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/Cu
 
 ## Écouter un event
 
+Dans la méthode `load()` de votre `Scenario`, appelez `setInitCallback` pour écouter ces événements.
 Vous pouvez simplement utiliser quelque chose comme :
 ```javascript
 window.addEventListener(
@@ -48,5 +49,4 @@ window.addEventListener(
   }
 );
 ```
-À placer dans le `setInitCallback` de la méthode `load()` de votre `Scenario`.
 Voir le scénario [Broceliande](/website/scenario/broceliande/definition.js) pour un exemple concret.
