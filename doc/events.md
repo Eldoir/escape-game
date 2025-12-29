@@ -1,20 +1,32 @@
-# Escape Game
+# Les événements
 
-## Liste des events utilisables :
+Les événements ("events") ont pour nomenclature : `escape-game.` + `eventCode`.
+Ci-dessous, la liste des `eventCode` utilisables.
 
-* `escape-game.start`
-* `escape-game.play`
-* `escape-game.pause`
-* `escape-game.penalty`
-* `escape-game.end`
-* `escape-game.close`
-* `escape-game.help.unknown`
-* `escape-game.help.good`
-* `escape-game.code.bad`
-* `escape-game.code.good`
-* `escape-game.machine.unknown`
-* `escape-game.machine.start`
-* `escape-game.machine.wrong`
-* `escape-game.machine.bad`
-* `escape-game.machine.good`
-* `escape-game.code.unknown` 
+## Events utilisables
+
+### Général
+* `start`
+* `play`
+* `pause`
+* `penalty`
+* `end`
+* `close`
+
+### Code
+* `code.bad`
+* `code.good`
+* `code.unknown`
+
+### Help
+* `help.good`
+* `help.unknown`
+
+### Machine
+* `machine.start`
+* `machine.wrong`
+* `machine.bad`
+* `machine.good`
+* `machine.unknown`
+
+## 
