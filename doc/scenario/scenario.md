@@ -1,4 +1,4 @@
-# Escape Game
+# Le scénario
 
 ## Créer un scénario
 
@@ -62,3 +62,7 @@ class ScenarioExample extends Scenario {
 * compléter votre fichier de définition avec votre scénario en vous aidant des scénarios déjà existants. Attention, à chaque modification, vous devez incrémenter le numéro de version.
 
 ***ATTENTION*** : n'utilisez que des images et des sons libres de droit.
+
+## Méthodes obligatoires
+
+Lorsque vous créez un scénario, vous devez implémenter certaines méthodes : voir [Méthodes obligatoires](./mandatory_methods/_main.md)
